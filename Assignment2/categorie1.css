@@ -1,0 +1,442 @@
+.bookstore4 {
+  position: relative;
+}
+.f-r-a-m-e1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-10xs);
+}
+.skjwkx0h-icon4 {
+  height: 54px;
+  width: 78px;
+  position: relative;
+  object-fit: cover;
+}
+.f-r-a-m-e-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 8px;
+  font-family: var(--font-inika);
+}
+.adventure-book1 {
+  position: relative;
+  cursor: pointer;
+}
+.adventure-book-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 74px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-21xl);
+}
+.sub-category-frame {
+  width: 220px;
+  height: 333px;
+  position: relative;
+  object-fit: cover;
+}
+.chacha-chaudhary-and {
+  width: 289px;
+  position: relative;
+  display: inline-block;
+}
+.div15 {
+  position: relative;
+  white-space: nowrap;
+}
+.image-23-icon3 {
+  height: 50px;
+  width: 214px;
+  position: relative;
+  object-fit: cover;
+}
+.parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 28px;
+  font-size: var(--font-size-13xl);
+}
+.frame-with-text,
+.sub-category-frame-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-with-text {
+  display: flex;
+  align-items: flex-start;
+  gap: 17px 0;
+}
+.sub-category-frame-parent {
+  gap: 21px 0;
+}
+.category-frame1,
+.comic-or-history-frame,
+.sub-category-frame-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.comic-or-history-frame {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  font-size: var(--font-size-5xl);
+}
+.category-frame1 {
+  width: 472px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 67px 0;
+  min-width: 472px;
+}
+.home4 {
+  cursor: pointer;
+}
+.categories4,
+.home4,
+.products4 {
+  position: relative;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.home-cats-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) 0 0;
+}
+.avatar-free-comic-day-frame,
+.shikari-shambu-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.shikari-shambu-frame {
+  width: 769px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.avatar-free-comic-day-frame {
+  align-self: stretch;
+  justify-content: flex-end;
+}
+.comics-book1,
+.history-book1 {
+  position: relative;
+}
+.history-book1 {
+  cursor: pointer;
+}
+.comics-history {
+  width: 759px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-inter);
+}
+.comics-book-history-frame,
+.comics-book-history-frame-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.comics-book-history-frame {
+  width: 813px;
+  flex-direction: column;
+  gap: 62px 0;
+}
+.comics-book-history-frame-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inika);
+}
+.frame-child3 {
+  width: 220px;
+  height: 333px;
+  position: relative;
+  object-fit: cover;
+}
+.avatar-free-comic {
+  width: 251px;
+  position: relative;
+  display: inline-block;
+}
+.div16 {
+  position: relative;
+  white-space: nowrap;
+}
+.image-26-icon4 {
+  height: 50px;
+  width: 214.3px;
+  position: relative;
+  object-fit: cover;
+}
+.comic-title,
+.parent3,
+.price-tag,
+.rectangle-parent2 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.parent3 {
+  flex: 1;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 0 28px;
+}
+.comic-title,
+.price-tag,
+.rectangle-parent2 {
+  align-items: flex-start;
+}
+.price-tag {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-mini);
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+}
+.comic-title,
+.rectangle-parent2 {
+  flex-direction: column;
+}
+.comic-title {
+  align-self: stretch;
+  gap: 5px 0;
+}
+.rectangle-parent2 {
+  width: 342px;
+  gap: 27px 0;
+  min-width: 342px;
+}
+.frame-child4 {
+  width: 220px;
+  height: 333px;
+  position: relative;
+  object-fit: cover;
+}
+.shikari-shambu-jungle {
+  width: 191px;
+  position: relative;
+  display: inline-block;
+}
+.div17 {
+  position: relative;
+  white-space: nowrap;
+}
+.image-18-icon2 {
+  height: 50px;
+  width: 214px;
+  position: relative;
+  object-fit: cover;
+}
+.parent4,
+.shikari-frame,
+.shikari-frame-inner {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.parent4 {
+  flex: 1;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 0 28px;
+}
+.shikari-frame,
+.shikari-frame-inner {
+  align-items: flex-start;
+}
+.shikari-frame-inner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-2xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+}
+.shikari-frame {
+  flex: 1;
+  flex-direction: column;
+  gap: 11px 0;
+}
+.shikari-frame-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-mini);
+  box-sizing: border-box;
+}
+.avatar-book-frame,
+.rectangle-parent3,
+.shikari-frame-wrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.rectangle-parent3 {
+  width: 353px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 21px 0;
+  min-width: 353px;
+}
+.avatar-book-frame {
+  width: 778px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.categorie1,
+.frame-parent8 {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-parent8 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 141px 0;
+  min-width: 555px;
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+}
+.categorie1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-2xl) var(--padding-26xl) 144px var(--padding-22xl);
+  box-sizing: border-box;
+  gap: 0 28px;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1125px) {
+  .category-frame1,
+  .comics-book-history-frame {
+    flex: 1;
+  }
+  .categorie1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .bookstore4 {
+    font-size: var(--font-size-19xl);
+  }
+  .adventure-book1 {
+    font-size: var(--font-size-13xl);
+  }
+  .div15 {
+    font-size: var(--font-size-7xl);
+  }
+  .comics-book1,
+  .history-book1 {
+    font-size: var(--font-size-13xl);
+  }
+  .comics-book-history-frame {
+    gap: 62px 0;
+  }
+  .div16 {
+    font-size: var(--font-size-7xl);
+  }
+  .rectangle-parent2 {
+    flex: 1;
+  }
+  .div17 {
+    font-size: var(--font-size-7xl);
+  }
+  .rectangle-parent3 {
+    flex: 1;
+  }
+  .avatar-book-frame {
+    flex-wrap: wrap;
+  }
+  .frame-parent8 {
+    gap: 141px 0;
+  }
+}
+@media screen and (max-width: 750px) {
+  .category-frame1 {
+    gap: 67px 0;
+    min-width: 100%;
+  }
+  .shikari-shambu-frame {
+    display: none;
+  }
+  .comics-history {
+    flex-wrap: wrap;
+  }
+  .frame-parent8,
+  .rectangle-parent2,
+  .rectangle-parent3 {
+    min-width: 100%;
+  }
+  .categorie1 {
+    padding-right: 22px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .bookstore4 {
+    font-size: var(--font-size-10xl);
+  }
+  .adventure-book1 {
+    font-size: var(--font-size-5xl);
+  }
+  .chacha-chaudhary-and,
+  .div15 {
+    font-size: var(--font-size-lgi);
+  }
+  .parent2 {
+    flex-wrap: wrap;
+  }
+  .comics-book1,
+  .history-book1 {
+    font-size: var(--font-size-5xl);
+  }
+  .comics-book-history-frame {
+    gap: 62px 0;
+  }
+  .avatar-free-comic,
+  .div16 {
+    font-size: var(--font-size-lgi);
+  }
+  .parent3 {
+    flex-wrap: wrap;
+  }
+  .div17,
+  .shikari-shambu-jungle {
+    font-size: var(--font-size-lgi);
+  }
+  .parent4 {
+    flex-wrap: wrap;
+  }
+  .frame-parent8 {
+    gap: 141px 0;
+  }
+}

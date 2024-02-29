@@ -1,0 +1,751 @@
+.expand-right-icon2 {
+  width: 92.6px;
+  height: 92.6px;
+  position: absolute;
+  margin: 0 !important;
+  top: 439px;
+  left: -3px;
+  object-fit: contain;
+  cursor: pointer;
+  z-index: 2;
+}
+.image-25-icon {
+  width: 474px;
+  height: 102px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+  max-width: 100%;
+  z-index: 1;
+}
+.bookstore1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.skjwkx0h-icon1 {
+  width: 78px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+}
+.skjwkx0h-wrapper {
+  height: 66px;
+  width: 307px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) 0 0;
+  box-sizing: border-box;
+}
+.home1 {
+  cursor: pointer;
+}
+.categories1,
+.home1,
+.products1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.products1 {
+  cursor: pointer;
+}
+.products-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) 0 0;
+}
+.bookstore-parent,
+.home-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inika);
+}
+.home-group {
+  margin: 0;
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.bookstore-parent {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: 0 8px;
+}
+.science-books {
+  margin: 0;
+  height: 50px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  white-space: nowrap;
+}
+.home-categories-frame2,
+.science-books-wrapper {
+  width: 407px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.home-categories-frame2 {
+  width: 1313px;
+  flex-direction: column;
+  align-items: center;
+  gap: 7px 0;
+}
+.home-categories-frame-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.frame-item {
+  height: 242px;
+  width: 207px;
+  position: relative;
+  object-fit: cover;
+}
+.this-item-black-holes {
+  width: 256px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.rectangle-parent,
+.this-item-black-holes-l-t-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.this-item-black-holes-l-t-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-mini) 0 0;
+  box-sizing: border-box;
+  min-width: 166px;
+}
+.rectangle-parent {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 0 13px;
+}
+.relativity-frame-child {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  margin: 0 !important;
+  top: -40px;
+  left: -75px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  z-index: 1;
+}
+.div {
+  position: relative;
+  white-space: nowrap;
+}
+.relativity-frame1,
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.wrapper {
+  flex: 1;
+  justify-content: flex-end;
+}
+.relativity-frame1 {
+  width: 122px;
+  justify-content: flex-start;
+  position: relative;
+}
+.image-17-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 3;
+}
+.black-holes-rectangle,
+.frame-container,
+.relativity-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.relativity-frame {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px 0;
+}
+.black-holes-rectangle,
+.frame-container {
+  box-sizing: border-box;
+}
+.black-holes-rectangle {
+  width: 248px;
+  height: 85px;
+  flex-direction: row;
+  padding: 0 var(--padding-mid);
+}
+.frame-container {
+  flex: 0.9835;
+  flex-direction: column;
+  padding: 0 var(--padding-5xs) 0 0;
+  gap: 25px 0;
+  min-width: 315px;
+  max-width: 100%;
+}
+.frame-inner {
+  height: 242px;
+  width: 207px;
+  position: relative;
+  object-fit: cover;
+}
+.relativity-the-special {
+  width: 272px;
+  height: 203px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.relativity-the-special-and-th-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+  min-width: 177px;
+}
+.rectangle-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 5px;
+}
+.div1 {
+  position: relative;
+  white-space: nowrap;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-18xl);
+}
+.image-20-icon1 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: -12px;
+  bottom: 0;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-27-icon {
+  height: 50px;
+  width: 214.3px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.image-20-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-parent1 {
+  flex-direction: column;
+  gap: 6px 0;
+}
+.frame-div,
+.frame-parent1,
+.frame-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper {
+  flex-direction: row;
+  padding: 0 var(--padding-mini);
+}
+.frame-div {
+  flex: 1;
+  flex-direction: column;
+  gap: 25px 0;
+  min-width: 315px;
+  max-width: 100%;
+  margin-left: -13px;
+}
+.science-books-frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 207px;
+  height: 242px;
+  object-fit: cover;
+}
+.ellipse-div {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+}
+.expand-right-icon3 {
+  width: 90px;
+  height: 90px;
+  position: relative;
+  cursor: pointer;
+  z-index: 1;
+  margin-top: -90px;
+}
+.ellipse-parent {
+  position: absolute;
+  top: 227px;
+  left: 344px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-26-icon1 {
+  position: absolute;
+  top: 302px;
+  left: 12px;
+  width: 214.3px;
+  height: 50px;
+  object-fit: cover;
+}
+.the-theory-of {
+  position: absolute;
+  top: 15px;
+  left: 222px;
+  display: inline-block;
+  width: 201px;
+}
+.by-stephen,
+.hawkingauthor {
+  margin: 0;
+}
+.by-stephen-hawkingauthor {
+  position: absolute;
+  top: 73px;
+  left: 222px;
+  display: inline-block;
+  width: 190px;
+  z-index: 1;
+}
+.div2 {
+  position: absolute;
+  top: 267px;
+  left: 58px;
+  white-space: nowrap;
+}
+.science-books-frame {
+  height: 352px;
+  width: 444px;
+  position: relative;
+  max-width: 100%;
+  margin-left: -13px;
+}
+.f-r-a-m-e,
+.f-r-a-m-e-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.f-r-a-m-e {
+  flex: 1;
+  row-gap: 20px;
+}
+.f-r-a-m-e-wrapper {
+  width: 1386px;
+  padding: 0 var(--padding-9xs) var(--padding-mid);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.einstein-theory-frame-child {
+  height: 242px;
+  width: 207px;
+  position: relative;
+  object-fit: cover;
+}
+.unravel-the-fabric {
+  width: 231px;
+  position: relative;
+  display: inline-block;
+}
+.unravel-the-fabric-of-reality-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-19xl) 0 0;
+  box-sizing: border-box;
+  min-width: 150px;
+}
+.einstein-theory-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 13px;
+}
+.image-19-icon {
+  height: 50px;
+  width: 214px;
+  position: absolute;
+  margin: 0 !important;
+  right: -82px;
+  bottom: -47px;
+  object-fit: cover;
+}
+.div3 {
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.image-19-parent,
+.stephen-hawking-life-science-f-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-19-parent {
+  position: relative;
+}
+.stephen-hawking-life-science-f-inner {
+  padding: 0 57px;
+}
+.stephen-hawking-life-science-f {
+  flex: 0.9783;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xs) 0 0;
+  box-sizing: border-box;
+  gap: 27px 0;
+  min-width: 300px;
+  max-width: 100%;
+}
+.rectangle-icon {
+  height: 242px;
+  width: 207px;
+  position: relative;
+  object-fit: cover;
+}
+.stephen-hawking-,
+.stephen-hawking-is {
+  width: 227px;
+  position: relative;
+  display: inline-block;
+}
+.stephen-hawking-is {
+  width: 249px;
+  z-index: 1;
+}
+.stephen-hawking-a-life-in-sc-parent {
+  align-self: stretch;
+  flex-direction: column;
+}
+.frame-wrapper1,
+.rectangle-container,
+.stephen-hawking-a-life-in-sc-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper1 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+  min-width: 162px;
+}
+.rectangle-container {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 0 5px;
+}
+.image-28-icon1 {
+  height: 50px;
+  width: 214.3px;
+  position: absolute;
+  margin: 0 !important;
+  right: -91.3px;
+  bottom: -47px;
+  object-fit: cover;
+}
+.div4 {
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.image-28-group,
+.stephen-hawking-life-science-f-child {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-28-group {
+  position: relative;
+}
+.stephen-hawking-life-science-f-child {
+  padding: 0 var(--padding-30xl);
+}
+.stephen-hawking-life-science-f1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 27px 0;
+  min-width: 300px;
+  max-width: 100%;
+}
+.einstein-theory-rectangle1 {
+  height: 242px;
+  width: 207px;
+  position: relative;
+  object-fit: cover;
+}
+.the-einstein-theory {
+  width: 189px;
+  position: relative;
+  display: inline-block;
+}
+.einstein-theory-text,
+.frame-book-cover {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.einstein-theory-text {
+  flex-direction: column;
+  padding: var(--padding-8xs) 0 0;
+}
+.frame-book-cover {
+  flex-direction: row;
+  gap: 0 15px;
+}
+.image-18-icon {
+  height: 50px;
+  width: 214px;
+  position: absolute;
+  margin: 0 !important;
+  right: -79px;
+  bottom: -47px;
+  object-fit: cover;
+}
+.div5 {
+  position: relative;
+  white-space: nowrap;
+  z-index: 1;
+}
+.einsteinframe,
+.product-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.einsteinframe {
+  position: relative;
+}
+.product-frame {
+  padding: 0 56px;
+}
+.einstein-theory-rectangle,
+.visionary-scientists-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px 0;
+  max-width: 100%;
+}
+.visionary-scientists-frame {
+  flex: 1;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 0 10px;
+}
+.science-book,
+.visionary-scientists-frame-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.visionary-scientists-frame-wrapper {
+  width: 1411px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-10xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.science-book {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: var(--padding-2xs) 0 var(--padding-44xl);
+  gap: 69px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1325px) {
+  .home-group {
+    display: none;
+  }
+  .stephen-hawking-life-science-f,
+  .stephen-hawking-life-science-f1 {
+    flex: 1;
+  }
+  .visionary-scientists-frame {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .frame-container,
+  .frame-div {
+    flex: 1;
+  }
+  .f-r-a-m-e {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .science-book {
+    gap: 69px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-item {
+    flex: 1;
+  }
+  .this-item-black-holes {
+    font-size: var(--font-size-lgi);
+  }
+  .rectangle-parent {
+    flex-wrap: wrap;
+  }
+  .div {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-inner {
+    flex: 1;
+  }
+  .relativity-the-special {
+    font-size: var(--font-size-lgi);
+  }
+  .rectangle-group {
+    flex-wrap: wrap;
+  }
+  .by-stephen-hawkingauthor,
+  .div1,
+  .div2,
+  .the-theory-of {
+    font-size: var(--font-size-lgi);
+  }
+  .einstein-theory-frame-child {
+    flex: 1;
+  }
+  .unravel-the-fabric {
+    font-size: var(--font-size-lgi);
+  }
+  .einstein-theory-frame {
+    flex-wrap: wrap;
+  }
+  .div3 {
+    font-size: var(--font-size-lgi);
+  }
+  .rectangle-icon {
+    flex: 1;
+  }
+  .stephen-hawking-,
+  .stephen-hawking-is {
+    font-size: var(--font-size-lgi);
+  }
+  .rectangle-container {
+    flex-wrap: wrap;
+  }
+  .div4 {
+    font-size: var(--font-size-lgi);
+  }
+  .einstein-theory-rectangle1 {
+    flex: 1;
+  }
+  .the-einstein-theory {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-book-cover {
+    flex-wrap: wrap;
+  }
+  .div5 {
+    font-size: var(--font-size-lgi);
+  }
+  .einstein-theory-rectangle {
+    gap: 40px 0;
+  }
+  .science-book {
+    gap: 69px 0;
+  }
+}

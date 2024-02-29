@@ -1,0 +1,1004 @@
+.image-14-icon,
+.image-9-icon {
+  width: 18.8px;
+  height: 25px;
+  position: absolute;
+  margin: 0 !important;
+  right: -293.8px;
+  bottom: 259px;
+  object-fit: cover;
+}
+.image-14-icon {
+  right: -303.8px;
+  bottom: -399px;
+}
+.bookstore {
+  height: 63px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.chanakya-banner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-10xs);
+}
+.skjwkx0h-icon {
+  height: 54px;
+  width: 78px;
+  position: relative;
+  object-fit: cover;
+}
+.chanakya-banner-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: 0 8px;
+  max-width: 100%;
+}
+.auodiobooks {
+  position: relative;
+  transform: rotate(-0.05deg);
+}
+.home-categories-frame {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+}
+.expand-right-icon {
+  width: 90.9px;
+  height: 90.9px;
+  position: relative;
+  object-fit: contain;
+  cursor: pointer;
+  z-index: 1;
+  margin-top: -90px;
+}
+.home-categories-frame-parent {
+  width: 120px;
+  flex: 1;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.audiobooks-label,
+.home-categories-frame-parent,
+.secondary-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.audiobooks-label {
+  flex: 1;
+  gap: 243px 0;
+}
+.secondary-frame {
+  height: 470px;
+  padding: 82px 0 0;
+  box-sizing: border-box;
+  min-width: 236px;
+}
+.rectangle-shape-icon {
+  width: 237px;
+  height: 253px;
+  position: relative;
+  object-fit: cover;
+}
+.avatar-of-vishnukalli,
+.dharmayoddha-kalki {
+  margin: 0;
+}
+.dharmayoddha-kalki-avatar-container {
+  align-self: stretch;
+  height: 52px;
+  position: relative;
+  display: inline-block;
+}
+.image-20-icon {
+  width: 173px;
+  height: 40.4px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.image-29-icon {
+  height: 25px;
+  width: 18.8px;
+  object-fit: cover;
+}
+.free,
+.image-29-icon {
+  position: relative;
+}
+.image-29-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 5px;
+}
+.image-20-parent {
+  flex-direction: column;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: 3px 0;
+}
+.audio-book-frame,
+.chanakya-quote-label,
+.image-20-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.audio-book-frame {
+  flex-direction: row;
+  padding: 0 var(--padding-xl);
+  font-size: var(--font-size-17xl);
+}
+.chanakya-quote-label {
+  width: 265px;
+  flex-direction: column;
+  padding: 0 var(--padding-xl) var(--padding-4xs) 0;
+  box-sizing: border-box;
+  gap: 12px 0;
+}
+.frame-child {
+  height: 253px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.rectangle-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-4xs);
+}
+.chanakya-neeti {
+  position: relative;
+}
+.acharya-chanakya {
+  position: relative;
+  z-index: 1;
+}
+.chanakya-neeti-acharya-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) var(--padding-2xs) 0;
+}
+.image-10-icon,
+.image-17-icon {
+  width: 173px;
+  height: 40.4px;
+  position: relative;
+  object-fit: cover;
+}
+.image-10-icon {
+  width: 18.8px;
+  height: 25px;
+}
+.image-10-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.free1 {
+  position: relative;
+}
+.skjwkxh-rectangle {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 3px;
+}
+.bookstore-text {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-6xs);
+}
+.background-frame,
+.bookstore-text,
+.image-17-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-17-parent {
+  flex-direction: column;
+  gap: 4px 0;
+}
+.background-frame {
+  flex-direction: row;
+  padding: 0 var(--padding-3xs);
+  font-size: var(--font-size-17xl);
+}
+.rectangle-shape-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 22px 0;
+  min-width: 177px;
+  font-size: var(--font-size-5xl);
+}
+.free-text-label,
+.rectangle-shape-parent,
+.skwxkxh-shape {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.free-text-label {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 0 35px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-inter);
+}
+.skwxkxh-shape {
+  flex: 1;
+  flex-direction: column;
+  gap: 17px 0;
+  min-width: 354px;
+  max-width: 100%;
+}
+.home {
+  cursor: pointer;
+}
+.categories,
+.home {
+  height: 63px;
+  position: relative;
+  display: inline-block;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.home-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-inika);
+}
+.products-container-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.mahaavtar-trilogy,
+.narasimha-the {
+  margin: 0;
+}
+.narasimha-the-mahaavtar-container {
+  position: relative;
+}
+.book-rectangle {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs);
+}
+.image-28-icon,
+.image-6-icon {
+  position: relative;
+  object-fit: cover;
+}
+.image-28-icon {
+  width: 173px;
+  height: 40.4px;
+  z-index: 1;
+}
+.image-6-icon {
+  width: 18.8px;
+  height: 25px;
+}
+.image-6-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.free2 {
+  align-self: stretch;
+  position: relative;
+}
+.image-28-parent,
+.small-image-holder {
+  display: flex;
+  justify-content: flex-start;
+}
+.small-image-holder {
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+  gap: 0 9px;
+}
+.image-28-parent {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: 2px 0;
+}
+.category-frame {
+  height: 77px;
+  flex-direction: row;
+  padding: 0 var(--padding-mini);
+  box-sizing: border-box;
+  font-size: var(--font-size-17xl);
+}
+.category-frame,
+.home-categories-label,
+.products-container-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.products-container-parent {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  gap: 14px 0;
+}
+.home-categories-label {
+  width: 246px;
+  height: 442px;
+  flex-direction: row;
+  padding: 0 var(--padding-4xs) 26px 0;
+  box-sizing: border-box;
+}
+.idols-rectangle-icon {
+  height: 253px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.idols-rectangle-wrapper {
+  width: 253px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xs);
+  box-sizing: border-box;
+}
+.and-proven-way,
+.atomic-habits-an,
+.good-habits {
+  margin: 0;
+}
+.atomic-habits-an-container,
+.image-26-icon {
+  position: relative;
+}
+.image-26-icon {
+  height: 40.4px;
+  width: 173px;
+  object-fit: cover;
+}
+.image-26-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xs);
+}
+.image-11-icon {
+  height: 25px;
+  width: 18.8px;
+  object-fit: cover;
+}
+.free3,
+.image-11-icon {
+  position: relative;
+}
+.figma-icons-container,
+.image-11-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.image-11-parent {
+  align-items: center;
+  gap: 0 1px;
+}
+.figma-icons-container {
+  align-items: flex-start;
+  padding: 0 var(--padding-2xs);
+  font-size: var(--font-size-17xl);
+}
+.alexander-secret-text {
+  flex-direction: column;
+  gap: 5px 0;
+}
+.alexander-secret-text,
+.anmol-stories-label,
+.home-categories-bg {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.anmol-stories-label {
+  flex-direction: column;
+  gap: 26px 0;
+}
+.home-categories-bg {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-smi);
+}
+.bookstore-label,
+.frame-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent {
+  width: 470px;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px 0;
+  min-width: 470px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+}
+.bookstore-label {
+  flex: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  min-width: 659px;
+  row-gap: 20px;
+}
+.products {
+  height: 63px;
+  position: relative;
+  display: inline-block;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  cursor: pointer;
+}
+.idols-power-murti-puja {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs);
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-inika);
+}
+.second-image-rectangle {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.book,
+.durgadevi-duology {
+  margin: 0;
+}
+.durgadevi-duology-book-container {
+  position: relative;
+}
+.image-23-icon,
+.image-7-icon {
+  position: relative;
+  object-fit: cover;
+}
+.image-23-icon {
+  width: 173px;
+  height: 37px;
+  z-index: 2;
+}
+.image-7-icon {
+  width: 18.8px;
+  height: 22.7px;
+}
+.image-7-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+}
+.free4 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.durga-devi-duology-image,
+.products-icons-row {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.products-icons-row {
+  padding: 0 0 0 var(--padding-3xs);
+}
+.image-23-parent {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  gap: 4px 0;
+}
+.free-text,
+.home-categories-text,
+.image-23-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.home-categories-text {
+  width: 198px;
+  flex: 1;
+  flex-direction: row;
+  padding: 0 var(--padding-10xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-17xl);
+}
+.free-text {
+  height: 146px;
+  flex-direction: column;
+  gap: 12px 0;
+}
+.anmol-kahaniya-label,
+.second-image-rectangle-parent {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.second-image-rectangle-parent {
+  flex-direction: column;
+  gap: 19px 0;
+}
+.anmol-kahaniya-label {
+  flex-direction: row;
+  padding: 0 var(--padding-xl) var(--padding-13xl) 0;
+}
+.title-frame-icon {
+  height: 253px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.title-frame-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mid) var(--padding-sm) 0;
+}
+.anmol-kahaniya41,
+.priceless-stories {
+  margin: 0;
+}
+.anmol-kahaniya41-priceless-container {
+  position: relative;
+}
+.anmol-stories-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-2xl);
+}
+.image-12-icon,
+.image-22-icon {
+  width: 173px;
+  height: 40.4px;
+  position: relative;
+  object-fit: cover;
+}
+.image-12-icon {
+  width: 18.8px;
+  height: 25px;
+}
+.image-12-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.free5 {
+  position: relative;
+}
+.durga-devi-book-frame,
+.frame-group {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frame-group {
+  align-items: center;
+  gap: 0 1px;
+}
+.durga-devi-book-frame {
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-5xs);
+}
+.image-22-parent {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px 0;
+}
+.idols-rectangle,
+.image-22-parent,
+.products-rectangle {
+  display: flex;
+  justify-content: flex-start;
+}
+.idols-rectangle {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 48px 0 var(--padding-8xl);
+  font-size: var(--font-size-17xl);
+}
+.products-rectangle {
+  height: 995px;
+  width: 257px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 12px 0;
+}
+.background-image-rectangle {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.idols-unearthing-the,
+.power-of-murti {
+  margin: 0;
+}
+.idols-unearthing-the-container {
+  align-self: stretch;
+  height: 78px;
+  position: relative;
+  display: inline-block;
+}
+.background-image-rectangle-parent {
+  width: 317px;
+  height: 433px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 25px 0;
+}
+.free6 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.subheading-frame {
+  width: 238px;
+  height: 44px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 42px;
+  box-sizing: border-box;
+}
+.idle-frame-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.subheading-frame-parent {
+  align-self: stretch;
+  height: 390px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xs) 0 0;
+  box-sizing: border-box;
+  gap: 16px 0;
+}
+.the-alexander-secret {
+  align-self: stretch;
+  height: 39px;
+  position: relative;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+}
+.empty-rectangle {
+  align-self: stretch;
+  padding: 0;
+  gap: 25px 0;
+  font-size: var(--font-size-17xl);
+}
+.empty-rectangle,
+.home-categories-frame1,
+.narasimha-book-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.narasimha-book-frame {
+  align-self: stretch;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: 157px 0;
+}
+.home-categories-frame1 {
+  width: 328px;
+  padding: 124px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+}
+.chanakya-wisdom {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  margin: 0 !important;
+  top: 544.2px;
+  left: 371.2px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  transform: rotate(177.44deg);
+  transform-origin: 0 0;
+}
+.durga-devi-duology-text {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.atomic-habits-thumbnail,
+.auodio-book-inner,
+.bookstore-label-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.atomic-habits-thumbnail {
+  width: 935px;
+  flex-direction: column;
+  padding: var(--padding-5xs) 0 0;
+  min-width: 935px;
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+}
+.auodio-book-inner,
+.bookstore-label-parent {
+  flex-direction: row;
+  padding: 0;
+}
+.bookstore-label-parent {
+  margin-bottom: -160px;
+  width: 1994px;
+  gap: 0 45px;
+  max-width: 141%;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inika);
+}
+.auodio-book-inner {
+  align-self: stretch;
+  height: 1016px;
+  max-width: 100%;
+}
+.expand-right-icon1 {
+  width: 94.8px;
+  height: 94.8px;
+  position: absolute;
+  margin: 0 !important;
+  top: 459.8px;
+  right: -20.2px;
+  object-fit: contain;
+  cursor: pointer;
+  z-index: 1;
+}
+.auodio-book {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-5xs) 0 0 var(--padding-11xl);
+  box-sizing: border-box;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .atomic-habits-thumbnail {
+    flex: 1;
+  }
+  .bookstore-label-parent {
+    flex-wrap: wrap;
+  }
+  .auodio-book-inner {
+    height: auto;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .bookstore {
+    font-size: var(--font-size-19xl);
+  }
+  .auodiobooks,
+  .free,
+  .free1,
+  .free2,
+  .free3 {
+    font-size: var(--font-size-10xl);
+  }
+  .frame-parent {
+    flex: 1;
+  }
+  .bookstore-label {
+    flex-wrap: wrap;
+  }
+  .products {
+    font-size: var(--font-size-19xl);
+  }
+  .free4,
+  .free5 {
+    font-size: var(--font-size-10xl);
+  }
+  .idols-unearthing-the-container {
+    font-size: var(--font-size-7xl);
+  }
+  .free6 {
+    font-size: var(--font-size-10xl);
+  }
+  .the-alexander-secret {
+    font-size: var(--font-size-7xl);
+  }
+  .home-categories-frame1 {
+    padding-top: 81px;
+    box-sizing: border-box;
+  }
+  .atomic-habits-thumbnail {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 750px) {
+  .secondary-frame {
+    padding-top: var(--padding-34xl);
+    box-sizing: border-box;
+  }
+  .free-text-label {
+    gap: 0 35px;
+  }
+  .bookstore-label,
+  .frame-parent {
+    min-width: 100%;
+  }
+  .home-categories-frame1 {
+    padding-top: var(--padding-34xl);
+    box-sizing: border-box;
+  }
+  .durga-devi-duology-text {
+    flex-wrap: wrap;
+  }
+  .bookstore-label-parent {
+    gap: 0 45px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .bookstore {
+    font-size: var(--font-size-10xl);
+  }
+  .auodiobooks {
+    font-size: var(--font-size-3xl);
+  }
+  .secondary-frame {
+    flex: 1;
+  }
+  .dharmayoddha-kalki-avatar-container {
+    font-size: var(--font-size-lgi);
+  }
+  .free {
+    font-size: var(--font-size-3xl);
+  }
+  .acharya-chanakya,
+  .chanakya-neeti {
+    font-size: var(--font-size-lgi);
+  }
+  .free1 {
+    font-size: var(--font-size-3xl);
+  }
+  .free-text-label {
+    flex-wrap: wrap;
+  }
+  .skwxkxh-shape {
+    min-width: 100%;
+  }
+  .narasimha-the-mahaavtar-container {
+    font-size: var(--font-size-lgi);
+  }
+  .free2 {
+    font-size: var(--font-size-3xl);
+  }
+  .atomic-habits-an-container {
+    font-size: var(--font-size-lgi);
+  }
+  .free3 {
+    font-size: var(--font-size-3xl);
+  }
+  .products {
+    font-size: var(--font-size-10xl);
+  }
+  .durgadevi-duology-book-container {
+    font-size: var(--font-size-lgi);
+  }
+  .free4 {
+    font-size: var(--font-size-3xl);
+  }
+  .anmol-kahaniya41-priceless-container {
+    font-size: var(--font-size-lgi);
+  }
+  .free5 {
+    font-size: var(--font-size-3xl);
+  }
+  .idols-rectangle {
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .idols-unearthing-the-container {
+    font-size: var(--font-size-lgi);
+  }
+  .free6 {
+    font-size: var(--font-size-3xl);
+  }
+  .the-alexander-secret {
+    font-size: var(--font-size-lgi);
+  }
+  .narasimha-book-frame {
+    gap: 157px 0;
+  }
+}

@@ -1,0 +1,453 @@
+.bookstore3 {
+  position: relative;
+}
+.frame-adventure-series {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-10xs);
+}
+.skjwkx0h-icon3 {
+  height: 54px;
+  width: 78px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-adventure-series-parent,
+.text-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frame-adventure-series-parent {
+  align-items: flex-end;
+  gap: 0 8px;
+}
+.text-title {
+  align-items: flex-start;
+  padding: 0 var(--padding-9xs);
+}
+.adventure-book {
+  position: relative;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-inter);
+  white-space: nowrap;
+}
+.frame-bookstore {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 79px 0;
+  min-width: 365px;
+  max-width: 100%;
+}
+.home3 {
+  position: relative;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  cursor: pointer;
+}
+.frame-home {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-30xl);
+}
+.comics-book {
+  position: relative;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-inter);
+  white-space: nowrap;
+  cursor: pointer;
+}
+.frame-categories-and-products {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 82px 0;
+  min-width: 285px;
+}
+.frame-bookstore-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inika);
+}
+.frame-currency-symbols {
+  width: 220px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+}
+.the-island-of {
+  width: 243px;
+  position: relative;
+  display: inline-block;
+}
+.div12 {
+  position: relative;
+  white-space: nowrap;
+}
+.image-23-icon2 {
+  height: 50px;
+  width: 214px;
+  position: absolute;
+  margin: 0 !important;
+  right: -45px;
+  bottom: -42px;
+  object-fit: cover;
+  z-index: 1;
+}
+.parent,
+.text-book-name {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.parent {
+  position: relative;
+}
+.text-book-name {
+  padding: 0 var(--padding-4xl) 0 0;
+  font-size: var(--font-size-13xl);
+}
+.frame-currency-symbols-parent,
+.image-background {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 61px 0;
+}
+.frame-currency-symbols-parent {
+  height: 533px;
+  align-items: flex-start;
+  gap: 13px 0;
+  min-width: 243px;
+}
+.frame-child2 {
+  width: 220px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+}
+.the-valley-of {
+  width: 225px;
+  position: relative;
+  display: inline-block;
+}
+.div13 {
+  position: relative;
+  white-space: nowrap;
+}
+.image-26-icon3 {
+  height: 50px;
+  width: 214.3px;
+  position: absolute;
+  margin: 0 !important;
+  right: -58.3px;
+  bottom: -42px;
+  object-fit: cover;
+  z-index: 1;
+}
+.frame-wrapper2,
+.group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.group {
+  position: relative;
+}
+.frame-wrapper2 {
+  padding: 0 var(--padding-mid);
+  font-size: var(--font-size-13xl);
+}
+.rectangle-parent1,
+.the-valley-of-adventure-the-a-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px 0;
+}
+.rectangle-parent1 {
+  height: 533px;
+  gap: 13px 0;
+  min-width: 225px;
+}
+.frame-island-of-adventure-seri {
+  width: 663px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.frame-parent7 {
+  width: 784px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 113px 0;
+  min-width: 784px;
+  max-width: 100%;
+}
+.categories3,
+.products3 {
+  position: relative;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  cursor: pointer;
+}
+.frame-with-one-child {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) 0 0;
+}
+.frame-with-products {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  font-family: var(--font-inika);
+}
+.history-book {
+  position: relative;
+  cursor: pointer;
+}
+.frame-with-history-book {
+  width: 355px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-20xl) 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-21xl);
+}
+.rectangle-shape-icon1 {
+  height: 333px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.rectangle-shape-wrapper {
+  width: 244px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs);
+  box-sizing: border-box;
+}
+.the-castle-of {
+  width: 264px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.castle-of-adventure-series {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-xs);
+}
+.div14 {
+  position: absolute;
+  top: 0;
+  left: 21px;
+  white-space: nowrap;
+}
+.image-24-icon1 {
+  position: absolute;
+  top: 31px;
+  left: 0;
+  width: 214px;
+  height: 50px;
+  object-fit: cover;
+  z-index: 1;
+}
+.parent1 {
+  width: 214px;
+  height: 81px;
+  position: relative;
+  font-size: var(--font-size-13xl);
+}
+.frame-with-book-title,
+.frame-with-rectangle-and-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-with-book-title {
+  align-self: stretch;
+  gap: 32px 0;
+}
+.frame-with-rectangle-and-text {
+  flex: 1;
+  gap: 13px 0;
+}
+.frame-with-multiple-children {
+  width: 368px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 46px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+}
+.categorie,
+.frame-with-categories,
+.frame-with-multiple-children {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-with-categories {
+  width: 531px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 74px 0;
+  min-width: 531px;
+  max-width: 100%;
+  font-size: var(--font-size-29xl);
+}
+.categorie {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-4xs) var(--padding-22xl) 134px;
+  box-sizing: border-box;
+  gap: 0 2px;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1325px) {
+  .frame-parent7,
+  .frame-with-categories {
+    flex: 1;
+  }
+  .categorie {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .frame-parent7 {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .frame-adventure-series-parent {
+    flex: 1;
+  }
+  .frame-bookstore {
+    flex: 1;
+    min-width: 100%;
+  }
+  .frame-categories-and-products {
+    flex: 1;
+  }
+  .frame-bookstore-parent {
+    flex-wrap: wrap;
+  }
+  .div12 {
+    font-size: var(--font-size-7xl);
+  }
+  .frame-currency-symbols-parent {
+    flex: 1;
+  }
+  .div13 {
+    font-size: var(--font-size-7xl);
+  }
+  .rectangle-parent1 {
+    flex: 1;
+  }
+  .frame-island-of-adventure-seri {
+    flex-wrap: wrap;
+  }
+  .frame-parent7 {
+    gap: 113px 0;
+  }
+  .history-book {
+    font-size: var(--font-size-13xl);
+  }
+  .div14 {
+    font-size: var(--font-size-7xl);
+  }
+  .frame-with-categories {
+    gap: 74px 0;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-adventure-series-parent {
+    flex-wrap: wrap;
+  }
+  .frame-bookstore {
+    gap: 79px 0;
+  }
+  .frame-categories-and-products {
+    gap: 82px 0;
+  }
+  .div12,
+  .div13,
+  .the-island-of,
+  .the-valley-of {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-parent7 {
+    gap: 113px 0;
+  }
+  .frame-with-products {
+    display: none;
+  }
+  .history-book {
+    font-size: var(--font-size-5xl);
+  }
+  .div14,
+  .the-castle-of {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-with-book-title {
+    gap: 32px 0;
+  }
+  .frame-with-multiple-children {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .frame-with-categories {
+    gap: 74px 0;
+  }
+}

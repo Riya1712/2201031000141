@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inika:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inria Sans:wght@700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="desktop-1">
+      <img
+        class="a-n-5-book-shop-icon1"
+        alt=""
+        src="./public/an5-book-shop@2x.png"
+      />
+
+      <header class="frame-base">
+        <b class="bookstore9">Bookstore</b>
+        <div class="skjwkxh-box">
+          <img
+            class="skjwkx0h-icon8"
+            loading="lazy"
+            alt=""
+            src="./public/skjwkx0h@2x.png"
+          />
+        </div>
+        <div class="home-categories">
+          <div class="home8">Home</div>
+          <div class="categories8" id="categoriesText">Categories</div>
+          <div class="welcome-message-frame">
+            <div class="products9" id="productsText">Products</div>
+          </div>
+        </div>
+      </header>
+      <section class="sub-frame">
+        <div class="welcome-to-our-bookstore-parent">
+          <b class="welcome-to-our-container1">
+            <p class="welcome-to-our1">Welcome to our</p>
+            <p class="bookstore10">Bookstore</p>
+          </b>
+          <div class="call-to-action-wrapper">
+            <button class="call-to-action">
+              <div class="first-rectangle" id="firstRectangle"></div>
+              <b class="shop-now1">Shop now</b>
+            </button>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <script>
+      var categoriesText = document.getElementById("categoriesText");
+      if (categoriesText) {
+        categoriesText.addEventListener("click", function (e) {
+          window.location.href = "./science-book.html";
+        });
+      }
+      
+      var productsText = document.getElementById("productsText");
+      if (productsText) {
+        productsText.addEventListener("click", function (e) {
+          window.location.href = "./product.html";
+        });
+      }
+      
+      var firstRectangle = document.getElementById("firstRectangle");
+      if (firstRectangle) {
+        firstRectangle.addEventListener("click", function (e) {
+          window.location.href = "./science-book.html";
+        });
+      }
+      </script>
+  </body>
+</html>
